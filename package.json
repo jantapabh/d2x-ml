@@ -1,0 +1,29 @@
+{
+  "name": "d2x-ml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitihm/d2x-ml.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitihm/d2x-ml/issues"
+  },
+  "homepage": "https://github.com/gitihm/d2x-ml#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "json2csv": "^5.0.1",
+    "lodash": "^4.17.15",
+    "tree-kill": "^1.2.2"
+  }
+}
